@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Mohamed Aashik banner" />
+<img src="https://raw.githubusercontent.com/mohamedAashik05/mohamedAashik05/main/assets/banner.svg" width="100%" alt="Mohamed Aashik banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+RESTful+APIs+with+ASP.NET+Core+%F0%9F%9A%80;React+%2B+.NET+%2B+SQL+Server+Full-Stack+Apps+%F0%9F%92%BB;Exploring+RAG%2C+MCP+%26+Gemini+API+%F0%9F%A4%96;Open+to+Entry-Level+Developer+Roles+%F0%9F%92%BC" alt="Typing animation" />

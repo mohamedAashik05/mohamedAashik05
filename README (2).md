@@ -1,17 +1,17 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER BANNER (Dark Neon) ===================== -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/mohamedAashik05/mohamedAashik05/main/assets/banner.svg" width="100%" alt="Mohamed Aashik banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+RESTful+APIs+with+ASP.NET+Core+%F0%9F%9A%80;React+%2B+.NET+%2B+SQL+Server+Full-Stack+Apps+%F0%9F%92%BB;Exploring+RAG%2C+MCP+%26+Gemini+API+%F0%9F%A4%96;Open+to+Entry-Level+Developer+Roles+%F0%9F%92%BC" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+RESTful+APIs+with+ASP.NET+Core;Full-Stack+Developer;RAG+%26+MCP+Explorer;Always+Learning+%26+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--aashik75-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aashik75)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashik.i2005@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/7sFrZzLXrr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--aashik75-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aashik75) 
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashik.i2005@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/7sFrZzLXrr/) 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedAashik05&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
@@ -33,7 +33,7 @@ const aashik = {
   location: "Chennai, Tamil Nadu 🇮🇳",
   currentlyBuilding: ["DocuMind (RAG + MCP)", "Employee Leave Management System"],
   currentlyExploring: ["RAG", "Model Context Protocol", "Gemini API"],
-  openTo: "Entry-level full-stack / .NET developer roles",
+  openTo: "Entry-level full-stack / .NET developer roles"
 };
 ```
 
@@ -52,32 +52,33 @@ const aashik = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack — Grouped Badges (Dark Neon)
 
 <div align="center">
 
-### Languages & Frameworks
+<!-- Primary stack -->
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,py,html,css,react,nodejs,express&perline=9" alt="Languages and frameworks" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,visualstudio,postman,vercel&perline=7" alt="Databases and tools" />
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/aspnet/core)
+[![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/ef)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 
 <br/>
 
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<!-- Databases & Tools -->
 
-### 🤖 AI Integration
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Semantic%20Retrieval-2ea44f?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-Embeddings-orange?style=for-the-badge)
+<br/>
+
+<!-- AI & Vector -->
+
+[![Gemini API](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)]()
+[![RAG](https://img.shields.io/badge/RAG-Semantic%20Retrieval-2ea44f?style=for-the-badge)]()
+[![Vector Search](https://img.shields.io/badge/Embeddings-FF8C00?style=for-the-badge)]()
 
 </div>
 
@@ -85,77 +86,83 @@ const aashik = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (with Demos & Repo links)
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 DocuMind
+### 📚 DocuMind  
 **RAG Document Q&A with an MCP Server** · *🚧 In progress*
 
-A full-stack document intelligence platform that answers questions from your documents with **document and page citations**.
+A document intelligence platform that answers questions from your documents with **document and page citations**.
 
 - RAG pipeline: PDF extraction, chunking, embeddings, semantic retrieval
 - C# **MCP server** exposing document search and retrieval tools
-- JWT auth, user-scoped access, input validation and automated tests
+- JWT auth, user-scoped access, input validation, and tests
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-black?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00ff99?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mohamedAashik05/mohamedAashik05/tree/main/DocuMind) 
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedAashik05/mohamedAashik05/tree/main/DocuMind)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗓️ Employee Leave Management System
+### 🗓️ Employee Leave Management System  
 *🚧 In progress*
 
-An end-to-end leave workflow for **Admin, Manager and Employee** roles.
+End-to-end leave workflow for Admin, Manager and Employee roles.
 
-- RESTful APIs with code-first migrations and a normalized SQL Server schema
-- LINQ queries with **pagination and dynamic filtering**
-- React.js dashboard for applications, approvals and status tracking
+- RESTful APIs with code-first migrations and normalized SQL schema
+- LINQ queries with pagination and dynamic filtering
+- React dashboard for applications & approvals
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00ff99?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mohamedAashik05/mohamedAashik05/tree/main/EmployeeLeave) 
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedAashik05/mohamedAashik05/tree/main/EmployeeLeave)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 QR Attendance Management System
+### 📱 QR Attendance Management System  
 *Aug 2026 – Oct 2026*
 
-QR-based student **check-in / check-out** across multiple classes.
+QR-based student check-in / check-out across multiple classes.
 
 - Server-side QR validation and duplicate check-in prevention
-- JWT authentication with role-based access for **Trainer** and **Student**
-- MS SQL Server for student records, classes and attendance transactions
+- Role-based JWT authentication
+- MS SQL Server for student records & transactions
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+[![Demo](https://img.shields.io/badge/Live-Demo-00ff99?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mohamedAashik05/mohamedAashik05/tree/main/QR-Attendance) 
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedAashik05/mohamedAashik05/tree/main/QR-Attendance)
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 Research Publication
-**Agri Smart** · *IJEDR, Vol. 14, Issue 2, May 2026*
+### 📄 Research Publication — Agri Smart
+**IJEDR, Vol.14, Issue 2, May 2026**
 
-Co-authored research combining **computer vision, machine learning, XGBoost and satellite-based NDVI** for crop recommendation and health monitoring.
+Co-authored research combining computer vision, ML, XGBoost and satellite NDVI for crop recommendation & health monitoring.
 
 `Publication ID: IJEDR26A2077` · `ISSN: 2321-9939`
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🔭 Currently Working On (Compact Timeline)
+
+- 2026-10 — DocuMind (RAG + MCP) — core retrieval API, citation-aware responses (60% complete)
+- 2026-09 — Employee Leave Management — role-based flows, approvals UI (40% complete)
+- 2026-08 — QR Attendance System — stable backend and duplicate-check logic (completed)
+
+(If you want live status badges, I can add GitHub Actions status or deploy status badges.)
 
 ---
 
@@ -187,12 +194,11 @@ Co-authored research combining **computer vision, machine learning, XGBoost and 
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 <div align="center">
 
-I'm looking for my **first full-stack developer role**, especially on **.NET + React** teams.
-If you're hiring or want to collaborate, I'd love to hear from you!
+I'm looking for my **first full-stack developer role**, especially on **.NET + React** teams. If you're hiring or want to collaborate, I'd love to hear from you!
 
 [![Email](https://img.shields.io/badge/aashik.i2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashik.i2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aashik75)
@@ -201,6 +207,6 @@ If you're hiring or want to collaborate, I'd love to hear from you!
 
 *⭐ If you like what you see, drop a star on my repos!*
 
-<img src="./assets/footer.svg" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/mohamedAashik05/mohamedAashik05/main/assets/footer.svg" width="100%" alt="footer decoration" />
 
 </div>

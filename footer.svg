@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2C5364"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#0F2027"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="100" fill="url(#bg)"/>
+  <text x="500" y="58" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="18" fill="#bfe9ff" letter-spacing="1.5">Thanks for visiting  •  Let's build something great together</text>
+</svg>
